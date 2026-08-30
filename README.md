@@ -41,13 +41,10 @@ streamlit run app.py
 ### Subject Management
 <img height="500" alt="image" src="https://github.com/user-attachments/assets/d56466bd-92d1-4291-b09e-df842b072d3a" /> 
 
-### Teacher Attendance Module
-<img height="500" alt="image" src="https://github.com/user-attachments/assets/9c8577cc-69be-4af9-b77e-62978aa0b129" />
-
 ### Student Dashboard
 <img height="1030" alt="image" src="https://github.com/user-attachments/assets/1c8aa549-6f9b-44e7-946b-40adfac98e52" />
 
 
 ## Author
 
-Gopal
+Vijith
